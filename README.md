@@ -1,4 +1,4 @@
-Draw and paint emoji art in a grid. Copy and paste shortcodes into Slack. Change :blank: emoji to your background preference. Enjoy. 
+Draw and paint art in a grid.  Change :blank: emoji to your background preference. Enjoy. 
 
 
 To run in dev mode:
